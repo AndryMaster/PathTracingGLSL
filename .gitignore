@@ -373,3 +373,6 @@ FodyWeavers.xsd
 /sfml-audio-d-2.dll
 /sfml-audio-2.dll
 /openal32.dll
+/RayTracingGLSL.vcxproj.filters
+/RayTracingGLSL.vcxproj
+/RayTracingGLSL.sln
